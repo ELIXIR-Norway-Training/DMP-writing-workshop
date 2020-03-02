@@ -22,18 +22,32 @@ Teaching material for DMP writing course
 
 ## Agenda
  09:00 - 09:15 Welcome and introduction to ELIXIR
+ 
   Erik Hjerde (ELIXIR, UiT) and Korbinian Bösl (ELIXIR and Digital life)
+  
  09:15 - 09:45 Requirements from the funding bodies
+ 
   Lars Figenschou (Science and Health Library, UiT)
+  
  09:45 - 10:15 About legal requirements
   Korbinian Bösl
+  
  10:15 - 10:30 Short break
-. 0:30 - 11:15 Information on national and local storage infrastructures
+ 
+ 10:30 - 11:15 Information on national and local storage infrastructures
+ 
   Erik Hjerde, Korbinian Bösl and Erik Axel Vollan (Seksjon for virksomhetsnære tjenester, UiT)
- 11:15 - 12:00 Relevant deposition repositories/data archives
+
+11:15 - 12:00 Relevant deposition repositories/data archives
+
   Korbinian Bösl and Lars Figenschou
+  
  12:00 - 12:30 Lunch
+ 
  12:30 - 13:15 Licensing of data, biological material and software
+ 
   Korbinian Bösl
+  
  13:15 - 13:30 Short break
+ 
  13:30 - 16:00 Hands on training and assistance to generate a data management plan
