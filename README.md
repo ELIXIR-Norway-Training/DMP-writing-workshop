@@ -16,7 +16,15 @@ Teaching material for DMP writing course
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
   
-  [UiT Research Data Portal](https://en.uit.no/forskning/art?p_document_id=548687)
+  [Research Data@UiB](https://www.uib.no/en/ub/111372/research-data)
+  
+  [Billy - Storing Research Data@UiB](https://it.uib.no/Billy)
+  
+  [GDPR@UiB](https://www.uib.no/personvern)
+  
+  [SAFE - Secure Data enviroment@UiB](https://www.uib.no/en/it/131011/safe-secure-access-research-data-and-e-infrastructure)
+  
+  [TSD - Natnional services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
   
