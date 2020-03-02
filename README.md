@@ -1,4 +1,4 @@
-2020.02.21 DMP-writing-workshop Tromsø 
+2020.03.04 DMP-writing-workshop Bergen 
 ======
 
 Teaching material for DMP writing course
