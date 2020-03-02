@@ -7,11 +7,17 @@ Teaching material for DMP writing course
 ## Useful links
 
   [ELIXIR Norway](https://www.elixir-norway.org/)
+  
   [Centre for Digital Life Norway](https://digitallifenorway.org/gb/)
+  
   [NeLS portal](https://nels.bioinfo.no/)
+  
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
+  
   [UiT Research Data Portal](https://en.uit.no/forskning/art?p_document_id=548687)
+  
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
+  
   [H2020 Data management manual](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 
 ## Agenda
