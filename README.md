@@ -43,7 +43,7 @@ Teaching material for DMP writing course
 
 * 11:15 - 12:00 Information on national and local storage infrastructures
 
-  Siri Kallhovd (ELIXIR and Sigma2) Korbinian Bösl and  Tore Linde (Lab-IT, UiB)#
+  Siri Kallhovd (ELIXIR and Sigma2) Korbinian Bösl and  Tore Linde (Lab-IT, UiB)
 
 * 12:00 - 12:30 Lunch
 
