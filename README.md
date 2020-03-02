@@ -3,8 +3,8 @@
 
 Teaching material for DMP writing course
 
-## Location
-[MH vest U.09.309](http://bit.ly/3acHYns "MazeMap")
+## Venue
+[Lars Hilles gate 30, UiB Learning Lab Store læringsrom](http://bit.ly/2RDl0hX "MazeMap")
 
 ## Useful links
 
@@ -23,33 +23,33 @@ Teaching material for DMP writing course
   [H2020 Data management manual](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 
 ## Agenda
-* 09:00 - 09:15 Welcome and introduction to ELIXIR
+* 09:00 - 09:15 Introduction
 
-  Erik Hjerde (ELIXIR, UiT) and Korbinian Bösl (ELIXIR and Digital life)
+  Beate Humberset (Universitetsbiblioteket, UiB) and Korbinian Bösl (ELIXIR and Digital Life)
   
-* 09:15 - 09:45 Requirements from the funding bodies 
+* 09:15 - 09:45 Requirements from institutions & funding bodies
 
-  Lars Figenschou (Science and Health Library, UiT)
+  Beate Humberset (Universitetsbiblioteket, UiB)
   
 * 09:45 - 10:15 About legal requirements
 
-  Korbinian Bösl
+  Janecke Veim (Personvernombud, UiB)
   
 * 10:15 - 10:30 Short break
- 
-* 10:30 - 11:15 Information on national and local storage infrastructures
 
-  Erik Hjerde, Korbinian Bösl and Erik Axel Vollan (Seksjon for virksomhetsnære tjenester, UiT)
-
-* 11:15 - 12:00 Relevant deposition repositories/data archives
-
-  Korbinian Bösl and Lars Figenschou
-  
-* 12:00 - 12:30 Lunch
- 
-* 12:30 - 13:15 Licensing of data, biological material and software
+* 10:30 - 11:15 Licensing of data, biological material and software
 
   Korbinian Bösl
+
+* 11:15 - 12:00 Information on national and local storage infrastructures
+
+  Siri Kallhovd (ELIXIR and Sigma2) Korbinian Bösl and  Tore Linde (Lab-IT, UiB)#
+
+* 12:00 - 12:30 Lunch
+
+* 12:30 - 13:50 Relevant deposition repositories/data archives
+
+  Beate Humberset and Korbinian Bösl
   
 * 13:15 - 13:30 Short break
  
