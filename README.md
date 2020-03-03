@@ -59,7 +59,7 @@ Teaching material for DMP writing course
   
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
-  [TSD - Natnional services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
+  [TSD - National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
   
