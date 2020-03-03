@@ -13,7 +13,7 @@ Teaching material for DMP writing course
   
 * 09:15 - 09:45 Requirements from institutions & funding bodies
 
-  Beate Humberset (Universitetsbiblioteket, UiB)
+  Korbinian Bösl
   
 * 09:45 - 10:15 About legal requirements
 
@@ -23,7 +23,7 @@ Teaching material for DMP writing course
 
 * 10:30 - 11:15 Licensing of data, biological material and software
 
-  Korbinian Bösl
+  Beate Humberset and Korbinian Bösl
 
 * 11:15 - 12:00 Information on national and local storage infrastructures
 
