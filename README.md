@@ -8,7 +8,9 @@ Campus Ås Meieribygningen M125 (Might change)
 
 ## Contacts
 [Solveig Fossum-Raunehaug ](solvfoss@nmbu.no) (NMBU Research Support Office)
+
 [Thu Hien To](mailto:thu-hien.to@nmbu.no) (ELIXIR and NMBU)
+
 [Korbinian Bösl](mailto:korbinian.bosl@uib.no) (Digital Life, ELIXIR and UiB)
 
 ## Agenda
@@ -43,8 +45,6 @@ Campus Ås Meieribygningen M125 (Might change)
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
   
   [Research Data@NMBU](https://www.nmbu.no/forskning/forskere/forskningsdata)
-  
-  [Billy - Storing Research Data@UiB](https://it.uib.no/Billy)
   
   [GDPR in Research @NMBU](https://www.nmbu.no/om/utvalg/etikk/personvern)
  
