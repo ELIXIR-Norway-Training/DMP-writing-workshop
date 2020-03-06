@@ -4,7 +4,7 @@
 Teaching material for DMP writing course
 
 ## Venue
-Campus Ås Meieribygningen M125 (Might change)
+Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 ## Contacts
 [Solveig Fossum-Raunehaug ](solvfoss@nmbu.no) (NMBU Research Support Office)
