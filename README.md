@@ -22,13 +22,13 @@ Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
   
 * 10:15 - 10:30 Short break
 
-* 10:30 - 11:15 Licensing of data, biological material and software
+* 10:30 - 11:15 Relevant deposition repositories/data archives
 
 * 11:15 - 12:00 Information on national and local storage infrastructures
 
 * 12:00 - 12:30 Lunch
 
-* 12:30 - 13:50 Relevant deposition repositories/data archives
+* 12:30 - 13:50 Licensing of data, biological material and software
   
 * 13:15 - 13:30 Short break
  
@@ -50,7 +50,7 @@ Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
  
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
-  [TSD - Natnional services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
+  [TSD - National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
   
