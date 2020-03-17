@@ -28,6 +28,8 @@ Teaching material for DMP writing course
 * 11:15 - 12:00 Information on national and local storage infrastructures
 
   Siri Kallhovd (ELIXIR and Sigma2) Korbinian Bösl and  Tore Linde (Lab-IT, UiB)
+  
+  Slides on [NREC](https://universityofbergen-my.sharepoint.com/:b:/g/personal/siri_kallhovd_uib_no/EYogvzaHD8dGhIkLwHURO_kB3FKDPEg-NJKHJCzY1x57lQ?e=Dcw6lr) and [NIRD](https://universityofbergen-my.sharepoint.com/:b:/g/personal/siri_kallhovd_uib_no/EfPCJuBX_WNGuMStMKKiCiEB9qHhHQyfo33slHdlwckQ9g?e=JcX0Gz) with UiB login
 
 * 12:00 - 12:30 Lunch
 
