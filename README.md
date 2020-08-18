@@ -1,6 +1,9 @@
 2020/03/11 DMP-writing-workshop Ås 
 ======
 
+
+[![DOI](https://zenodo.org/badge/244342776.svg)](https://zenodo.org/badge/latestdoi/244342776)
+
 Teaching material for DMP writing course
 
 ## Venue
