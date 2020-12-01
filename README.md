@@ -8,11 +8,17 @@ Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 ## Contacts
 [Ingrid Heggland](https://www.ntnu.edu/employees/ingrid.heggland) (ResearchData@NTNU)
+
 [Ane M Gabrielsen](https://www.ntnu.no/ansatte/ane.gabrielsen) (ResearchData@NTNU)
+
 [Anne Heidi Skogholt](https://www.ntnu.edu/employees/anne.heidi.skogholt) (NTNU/HUNT-Cloud)
+
 [Heine Skipenes](https://www.ntnu.no/ansatte/heine.skipenes) (Research IT NTNU)
+
 [Hilde Eikemo](https://www.ntnu.edu/employees/hilde.eikemo) (REC Central Norway)
+
 [Thomas Helgesen](https://www.ntnu.no/ansatte/thomas.helgesen) (Data protection officer NTNU)
+
 [Kjersti Rise](https://www.ntnu.edu/employees/kjersti.rise) (NTNU/ELIXIR-Norway)
 
 [Korbinian Bösl](mailto:korbinian.bosl@uib.no) (Digital Life, ELIXIR and UiB)
