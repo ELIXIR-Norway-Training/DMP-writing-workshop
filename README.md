@@ -21,7 +21,7 @@ Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 [Kjersti Rise](https://www.ntnu.edu/employees/kjersti.rise) (NTNU/ELIXIR-Norway)
 
-[Korbinian Bösl](mailto:korbinian.bosl@uib.no) (Digital Life, ELIXIR and UiB)
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.Boesl) (Centre for Digital Life Norway, ELIXIR-Norway and UiB)
 
 ## Agenda
 ### 2020-11-30
