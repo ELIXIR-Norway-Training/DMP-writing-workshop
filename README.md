@@ -24,25 +24,27 @@ Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 [Korbinian Bösl](mailto:korbinian.bosl@uib.no) (Digital Life, ELIXIR and UiB)
 
 ## Agenda
-* 09:00 - 09:15 Introduction
+### 2020-11-30
+0900 - 0915 Introduction
 
-* 09:15 - 09:45 Requirements from the funding bodies and Institutions
-  
-* 09:45 - 10:15 About legal requirements
-  
-* 10:15 - 10:30 Short break
+0915 - 0945 Requirements from institutions & funding bodies
 
-* 10:30 - 11:15 Relevant deposition repositories/data archives
 
-* 11:15 - 12:00 Information on national and local storage infrastructures
+0945 - 1015 Information on national and local storage infrastructures
 
-* 12:00 - 12:30 Lunch
+1015 - 1030 Short break
 
-* 12:30 - 13:50 Licensing of data, biological material and software
-  
-* 13:15 - 13:30 Short break
- 
-* 13:30 - 16:00 Hands on training and assistance to generate a data management plan
+1030 - 1230 Relevant deposition repositories/ data archives
+
+### 2020-12-01
+0900 - 1000 GDPR and other legal requirements for research on humans
+
+1000 - 1015 Short break
+
+1015 - 1045 Licensing of data, biological material and software
+
+1045 - 1300 Hands on training and assistance to generate a data
+management plan
 
 ## Useful links
 
