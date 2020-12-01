@@ -1,18 +1,19 @@
-2020/03/11 DMP-writing-workshop Ås 
+2020/11/30 DMP-writing-workshop Trondheim
 ======
-
-
-[![DOI](https://zenodo.org/badge/244342776.svg)](https://zenodo.org/badge/latestdoi/244342776)
 
 Teaching material for DMP writing course
 
-## Venue
+## Online course
 Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 ## Contacts
-[Solveig Fossum-Raunehaug ](solvfoss@nmbu.no) (NMBU Research Support Office)
-
-[Thu Hien To](mailto:thu-hien.to@nmbu.no) (ELIXIR and NMBU)
+[Ingrid Heggland](https://www.ntnu.edu/employees/ingrid.heggland) (ResearchData@NTNU)
+[Ane M Gabrielsen](https://www.ntnu.no/ansatte/ane.gabrielsen) (ResearchData@NTNU)
+[Anne Heidi Skogholt](https://www.ntnu.edu/employees/anne.heidi.skogholt) (NTNU/HUNT-Cloud)
+[Heine Skipenes](https://www.ntnu.no/ansatte/heine.skipenes) (Research IT NTNU)
+[Hilde Eikemo](https://www.ntnu.edu/employees/hilde.eikemo) (REC Central Norway)
+[Thomas Helgesen](https://www.ntnu.no/ansatte/thomas.helgesen) (Data protection officer NTNU)
+[Kjersti Rise](https://www.ntnu.edu/employees/kjersti.rise) (NTNU/ELIXIR-Norway)
 
 [Korbinian Bösl](mailto:korbinian.bosl@uib.no) (Digital Life, ELIXIR and UiB)
 
@@ -47,9 +48,9 @@ Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
   
-  [Research Data@NMBU](https://www.nmbu.no/forskning/forskere/forskningsdata)
+  [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
   
-  [GDPR in Research @NMBU](https://www.nmbu.no/om/utvalg/etikk/personvern)
+  [GDPR in Research @NTNU](https://innsida.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects)
  
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
