@@ -396,4 +396,6 @@ Creative Commons may be contacted at creativecommons.org.
 
 =======================================================================
 
-Trademarks, service marks, trade names, logos, icons, and domain names in this presentations are proprietary to their respective owner and are not subject of this license. 
+Trademarks, service marks, trade names, logos, icons, and domain names in 
+this presentations are proprietary to their respective owner and are not 
+subject of this license. 
