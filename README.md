@@ -4,7 +4,6 @@
 Teaching material for DMP writing course
 
 ## Online course
-Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 ## Contacts
 [Ingrid Heggland](https://www.ntnu.edu/employees/ingrid.heggland) (ResearchData@NTNU)
