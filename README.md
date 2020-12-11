@@ -1,50 +1,58 @@
-2020/11/30 DMP-writing-workshop Trondheim
+2020/12/10 DMP-writing-workshop Oslo
 ======
 
 Teaching material for DMP writing course
 
 ## Online course
-Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 ## Contacts
-[Ingrid Heggland](https://www.ntnu.edu/employees/ingrid.heggland) (ResearchData@NTNU)
+[Elin Stangeland](https://www.ub.uio.no/english/about/people/ubodigit/elinstan/) (UiO Research Data Management)
 
-[Ane M Gabrielsen](https://www.ntnu.no/ansatte/ane.gabrielsen) (ResearchData@NTNU)
+[Gard O Sundby Thomassen](https://www.usit.uio.no/english/about/organisation/rc/staff/gardot/index.html) (Assistant Director - UiO USIT Research Computing)
 
-[Anne Heidi Skogholt](https://www.ntnu.edu/employees/anne.heidi.skogholt) (NTNU/HUNT-Cloud)
+[Lars Soligard](https://www.usit.uio.no/english/about/organisation/sst/it-directors-office/staff/larssoli/index.html) (Data Processing Officer - UiO USIT)
 
-[Heine Skipenes](https://www.ntnu.no/ansatte/heine.skipenes) (Research IT NTNU)
+Eszter Agnes Papp (UiO/eBrains)
 
-[Hilde Eikemo](https://www.ntnu.edu/employees/hilde.eikemo) (REC Central Norway)
-
-[Thomas Helgesen](https://www.ntnu.no/ansatte/thomas.helgesen) (Data protection officer NTNU)
-
-[Kjersti Rise](https://www.ntnu.edu/employees/kjersti.rise) (NTNU/ELIXIR-Norway)
+[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR-Norway)
 
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.Boesl) (Centre for Digital Life Norway, ELIXIR-Norway and UiB)
 
 ## Agenda
-### 2020-11-30
+### 10.12.2020
 0900 - 0915 Introduction
 
 0915 - 0945 Requirements from institutions & funding bodies
 
+* UiO
+* H2020/ERC
+* Research Council Norway
 
 0945 - 1015 Information on national and local storage infrastructures
+
+* NeLS/StoreBioInfo
+* NIRD
+* UiO Computing & Storage resources
+* TSD
 
 1015 - 1030 Short break
 
 1030 - 1230 Relevant deposition repositories/ data archives
 
-### 2020-12-01
-0900 - 1000 GDPR and other legal requirements for research on humans
+* domain specific archives (ELIXIR/EMBL-EBI, NCBI)
+* NIRD archive
+* NSD
+
+### 11.12.2020
+0900 - 1000 Key legal requirements for research in the GDPR and Health research act
+* Personal Data Act
+* Health Research Act
 
 1000 - 1015 Short break
 
 1015 - 1045 Licensing of data, biological material and software
 
-1045 - 1300 Hands on training and assistance to generate a data
-management plan
+1045 - 1300 Hands on training and assistance to generate a data management plan
 
 ## Useful links
 
@@ -56,13 +64,13 @@ management plan
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
   
-  [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
+  [UiO Research Data Management](https://www.uio.no/english/for-employees/support/research/research-data-management/)
   
-  [GDPR in Research @NTNU](https://innsida.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects)
+  [Laws and regulations - RDM @ UiO](https://www.uio.no/english/for-employees/support/research/research-data-management/laws-regulations/)
  
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
-  [TSD - National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
+  [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
   
