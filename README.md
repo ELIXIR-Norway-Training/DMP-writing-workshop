@@ -1,50 +1,53 @@
-2020/11/30 DMP-writing-workshop Trondheim
+2021/03/09 DMP-writing-workshop Aas
 ======
 
 Teaching material for DMP writing course
 
 ## Online course
-Campus Ås Samfunnet Møterommet (by Rosehagen), 2nd floor
 
 ## Contacts
-[Ingrid Heggland](https://www.ntnu.edu/employees/ingrid.heggland) (ResearchData@NTNU)
+[Solveig Fossum-Raunehaug](https://www.nmbu.no/emp/solveig.fossum-raunehaug) (NMBU Research Support Office )
 
-[Ane M Gabrielsen](https://www.ntnu.no/ansatte/ane.gabrielsen) (ResearchData@NTNU)
-
-[Anne Heidi Skogholt](https://www.ntnu.edu/employees/anne.heidi.skogholt) (NTNU/HUNT-Cloud)
-
-[Heine Skipenes](https://www.ntnu.no/ansatte/heine.skipenes) (Research IT NTNU)
-
-[Hilde Eikemo](https://www.ntnu.edu/employees/hilde.eikemo) (REC Central Norway)
-
-[Thomas Helgesen](https://www.ntnu.no/ansatte/thomas.helgesen) (Data protection officer NTNU)
-
-[Kjersti Rise](https://www.ntnu.edu/employees/kjersti.rise) (NTNU/ELIXIR-Norway)
+[Gareth Benjamin Gillard](https://www.nmbu.no/emp/gareth.gillard) (NMBU/ELIXIR-Norway)
 
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.Boesl) (Centre for Digital Life Norway, ELIXIR-Norway and UiB)
 
 ## Agenda
-### 2020-11-30
+### 09.03.2021
 0900 - 0915 Introduction
 
 0915 - 0945 Requirements from institutions & funding bodies
 
+* NMBU
+* H2020/ERC
+* Research Council Norway
 
 0945 - 1015 Information on national and local storage infrastructures
+
+* NeLS/StoreBioInfo
+* Sigma2
+* NIRD
+* TSD
 
 1015 - 1030 Short break
 
 1030 - 1230 Relevant deposition repositories/ data archives
 
-### 2020-12-01
-0900 - 1000 GDPR and other legal requirements for research on humans
+* domain specific archives (ELIXIR/EMBL-EBI, NCBI)
+* NIRD archive
+* NSD
+* archiving code
+
+### 10.03.2021
+0900 - 1000 Key legal requirements for research in the GDPR and Health research act
+* Personal Data Act
+* Health Research Act
 
 1000 - 1015 Short break
 
 1015 - 1045 Licensing of data, biological material and software
 
-1045 - 1300 Hands on training and assistance to generate a data
-management plan
+1045 - 1300 Hands on training and assistance to generate a data management plan
 
 ## Useful links
 
@@ -56,13 +59,13 @@ management plan
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
   
-  [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
+  [NMBU Research Data Management](https://www.nmbu.no/en/research/for_researchers/researchdata)
   
-  [GDPR in Research @NTNU](https://innsida.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects)
+  [Personal (sensitive) - RDM @ NMBU](https://www.nmbu.no/en/research/for_researchers/researchdata/node/34780)
  
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
-  [TSD - National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
+  [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
   
