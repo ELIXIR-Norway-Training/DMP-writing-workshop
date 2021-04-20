@@ -7,10 +7,15 @@ Teaching material for DMP writing workshop
 
 ## Contacts
 [Kjersti Hasle Enerstvedt](https://www.uib.no/en/persons/Kjersti.Hasle.Enerstvedt) (UiB University Library Research Data team)
+
 [Jenny Ostrop](https://www.uib.no/en/persons/Jenny.Ostrop) (UiB University Library Research Data team)
+
 [Tore Linde](https://www.uib.no/en/persons/Tore.Andre.Linde) (SAFE/UiB IT divison)
+
 [Siri Kallhovd](https://www.uib.no/en/persons/Siri.Kallhovd) (UiB/Metacenter/ELIXIR-Norway)
+
 [Janecke Veim](https://www.uib.no/personer/Janecke.Helene.Veim) (Privacy Officer UiB)
+
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.Boesl) (UiB/ELIXIR-Norway/Centre for Digital Life Norway)
 
 ## Agenda
