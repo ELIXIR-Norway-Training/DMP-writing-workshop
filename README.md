@@ -7,10 +7,15 @@ Teaching material for DMP writing workshop
 
 ## Contacts
 [Kjersti Hasle Enerstvedt](https://www.uib.no/en/persons/Kjersti.Hasle.Enerstvedt) (UiB University Library Research Data team)
+
 [Jenny Ostrop](https://www.uib.no/en/persons/Jenny.Ostrop) (UiB University Library Research Data team)
+
 [Tore Linde](https://www.uib.no/en/persons/Tore.Andre.Linde) (SAFE/UiB IT divison)
+
 [Siri Kallhovd](https://www.uib.no/en/persons/Siri.Kallhovd) (UiB/Metacenter/ELIXIR-Norway)
+
 [Janecke Veim](https://www.uib.no/personer/Janecke.Helene.Veim) (Privacy Officer UiB)
+
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.Boesl) (UiB/ELIXIR-Norway/Centre for Digital Life Norway)
 
 ## Agenda
@@ -75,8 +80,14 @@ Join us online and bring your research project if you have one. You will get the
   
   [UiB Open Access to Research Data](https://www.uib.no/en/ub/111372/open-access-research-data)
   
+  [UiB Information on DMPs](https://www.uib.no/en/ub/143694/data-management-plans)
+  
   [Personal (sensitive) - RDM @ UiB](https://www.uib.no/personvern/129857/personvern-i-forskning-ved-uib)
  
+  [UiB Storage](https://it.uib.no/en/File_storage_and_backup)
+  
+  [SAFE UiB service for sensitive data](https://www.uib.no/en/it/131011/safe-secure-access-research-data-and-e-infrastructure)
+  
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
   [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
