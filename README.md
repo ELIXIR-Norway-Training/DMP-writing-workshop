@@ -6,21 +6,34 @@ Teaching material for DMP writing workshop
 ## Online workshop
 
 ## Contacts
+
 [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
 
-[Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977)
+[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/)(UiO/ELIXIR-Norway)
 
-[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/)
+[Marta Eide](https://www.uib.no/personer/Marta.Eide)(UiB/Centre for Digital Life Norway)
 
-[Nazeefa Fatima](https://www.mn.uio.no/ifi/personer/vit/nazeefaf/index.html)
+[Nazeefa Fatima ](https://www.mn.uio.no/ifi/english/people/aca/nazeefaf/index.html)(UiO/ELIXIR-Norway) 
 
-[Marta Eide](https://www.uib.no/personer/Marta.Eide)
+[Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977)(UiT/ELIXIR-Norway)
 
-[Espen Åberg](https://uit.no/ansatte/espen.aberg)
+[Espen Åberg](https://uit.no/ansatte/espen.aberg)(UiT/ELIXIR-Norway)
 
-[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward)
+[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward)(NTNU/ELIXIR-Norway)
 
-[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl)
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl)(UiB/ELIXIR-Norway & Centre for Digital Life Norway)
+
+[NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
+
+[Research Data@NTNU](https://innsida.ntnu.no/researchdata)
+
+[UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
+
+[UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
+
+[UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
+
+
 
 [NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
 
@@ -72,6 +85,7 @@ Teaching material for DMP writing workshop
 
 1015 - 1045 Relevant deposition repositories/ data archives
 
+
     domain specific archives (ELIXIR/EMBL-EBI, NCBI)
     Dataverse NO
     EGA
@@ -92,18 +106,42 @@ Looking forward to see you at the workshop.
 
 Join us online and bring your research project if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://elixir-no.ds-wizard.org/) tool using a structured and detailed questionnaire with references to relevant resources.
 
-
 ## Useful links
 
   [ELIXIR Norway](https://www.elixir-norway.org/)
   
   [Centre for Digital Life Norway](https://digitallifenorway.org/gb/)
   
+  [RDMkit](https://rdmkit.elixir-europe.org/) 
+  
   [NeLS](https://nels-docs.readthedocs.io/en/latest/)
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
+
+  [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
-  [NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
+  [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
+  
+  [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
+  
+### NMBU
+  
+  [NMBU Research Data Management](https://www.nmbu.no/en/research/for_researchers/researchdata)
+  
+  [Personal (sensitive) - RDM @ NMBU](https://www.nmbu.no/en/research/for_researchers/researchdata/node/34780)
+  
+### NTNU
+
+  [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
+  
+  [GDPR in Research @NTNU](https://innsida.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects)
+  
+### University of Bergen
+
+  [UiB Open Access to Research Data](https://www.uib.no/en/ub/111372/open-access-research-data)
+  
+  [UiB Information on DMPs](https://www.uib.no/en/ub/143694/data-management-plans)
+
   
   [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
   
@@ -113,10 +151,24 @@ Join us online and bring your research project if you have one. You will get the
 
   [UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
   
-  [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
+### University of Oslo
   
-  [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
+  [UiO Information on DMPs](https://www.uio.no/english/for-employees/support/research/research-data-management/data-management-plan/)
   
-  [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
+  [UiO Research Data Management](https://www.uio.no/english/for-employees/support/research/research-data-management/)
   
-  [H2020 Data management manual](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+  [UiO Storage](https://www.uio.no/english/for-employees/support/research/research-data-management/storage/index.html)
+  
+  [UiO RDM Policy](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-and-guidelines/index.html)
+  
+  [UiO GDPR](https://www.uio.no/english/for-employees/support/privacy-dataprotection/research-at-uio.html)
+
+### University of Tromsø
+
+  [UiT Information on DMPs](https://en.uit.no/forskning/art?p_document_id=548687#collapseThree)
+
+  [UiT Research Data Management](https://en.uit.no/forskning/art?p_document_id=548687)
+  
+  [UiT ethics and personal data protectionm](https://en.uit.no/forskning/art?p_document_id=548687#collapseSix)
+  
+  [UiT RDM Policy](https://en.uit.no/forskning/art?p_document_id=548687#collapseTwo)
