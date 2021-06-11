@@ -6,18 +6,32 @@ Teaching material for DMP writing workshop
 ## Online workshop
 
 ## Contacts
+[ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
+
 [Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977)
+
 [Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/)
+
 [Nazeefa Fatima](https://www.mn.uio.no/ifi/personer/vit/nazeefaf/index.html)
+
 [Marta Eide](https://www.uib.no/personer/Marta.Eide)
+
 [Espen Åberg](https://uit.no/ansatte/espen.aberg)
+
 [Eivind Coward](https://www.ntnu.edu/employees/eivind.coward)
+
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl)
+
 [NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
+
 [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
+
 [UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
+
 [UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
+
 [UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
+
 
 ## Agenda
 ### 21.04.2021
