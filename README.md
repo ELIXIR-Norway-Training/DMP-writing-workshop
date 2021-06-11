@@ -9,17 +9,30 @@ Teaching material for DMP writing workshop
 
 [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
 
-[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward)(NTNU/ELIXIR-Norway)
+[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/)(UiO/ELIXIR-Norway)
 
 [Marta Eide](https://www.uib.no/personer/Marta.Eide)(UiB/Centre for Digital Life Norway)
-
-[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.Boesl) (UiB/ELIXIR-Norway/Centre for Digital Life Norway)
-
-[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/)(UiO/ELIXIR-Norway)
 
 [Nazeefa Fatima ](https://www.mn.uio.no/ifi/english/people/aca/nazeefaf/index.html)(UiO/ELIXIR-Norway) 
 
 [Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977)(UiT/ELIXIR-Norway)
+
+[Espen Åberg](https://uit.no/ansatte/espen.aberg)(UiT/ELIXIR-Norway)
+
+[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward)(NTNU/ELIXIR-Norway)
+
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl)(UiB/ELIXIR-Norway & Centre for Digital Life Norway)
+
+[NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
+
+[Research Data@NTNU](https://innsida.ntnu.no/researchdata)
+
+[UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
+
+[UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
+
+[UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
+
 
 
 [NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
@@ -72,6 +85,7 @@ Teaching material for DMP writing workshop
 
 1015 - 1045 Relevant deposition repositories/ data archives
 
+
     domain specific archives (ELIXIR/EMBL-EBI, NCBI)
     Dataverse NO
     EGA
@@ -98,10 +112,11 @@ Join us online and bring your research project if you have one. You will get the
   
   [Centre for Digital Life Norway](https://digitallifenorway.org/gb/)
   
-  [NeLS portal](https://nels.bioinfo.no/)
+  [NeLS](https://nels-docs.readthedocs.io/en/latest/)
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
   
+
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
   [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
@@ -125,12 +140,15 @@ Join us online and bring your research project if you have one. You will get the
   [UiB Open Access to Research Data](https://www.uib.no/en/ub/111372/open-access-research-data)
   
   [UiB Information on DMPs](https://www.uib.no/en/ub/143694/data-management-plans)
+
   
-  [Personal (sensitive) - RDM @ UiB](https://www.uib.no/personvern/129857/personvern-i-forskning-ved-uib)
- 
-  [UiB Storage](https://it.uib.no/en/File_storage_and_backup)
+  [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
   
-  [SAFE UiB service for sensitive data](https://www.uib.no/en/it/131011/safe-secure-access-research-data-and-e-infrastructure)
+  [UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
+
+  [UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
+
+  [UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
   
 ### University of Oslo
   
