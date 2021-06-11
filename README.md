@@ -112,10 +112,11 @@ Join us online and bring your research project if you have one. You will get the
   
   [Centre for Digital Life Norway](https://digitallifenorway.org/gb/)
   
+  [RDMkit](https://rdmkit.elixir-europe.org/) 
+  
   [NeLS](https://nels-docs.readthedocs.io/en/latest/)
   
   [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
-  
 
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
