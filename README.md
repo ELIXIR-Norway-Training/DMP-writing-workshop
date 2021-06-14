@@ -123,7 +123,8 @@ Join us online and bring your research project if you have one. You will get the
   [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
-  
+
+
 ### NMBU
   
   [NMBU Research Data Management](https://www.nmbu.no/en/research/for_researchers/researchdata)
@@ -131,27 +132,22 @@ Join us online and bring your research project if you have one. You will get the
   [Personal (sensitive) - RDM @ NMBU](https://www.nmbu.no/en/research/for_researchers/researchdata/node/34780)
   
 ### NTNU
-
+  
   [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
   
   [GDPR in Research @NTNU](https://innsida.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects)
   
 ### University of Bergen
 
+  [UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
+
   [UiB Open Access to Research Data](https://www.uib.no/en/ub/111372/open-access-research-data)
   
   [UiB Information on DMPs](https://www.uib.no/en/ub/143694/data-management-plans)
-
-  
-  [Research Data@NTNU](https://innsida.ntnu.no/researchdata)
-  
-  [UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
-
-  [UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
-
-  [UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
-  
+    
 ### University of Oslo
+  
+  [UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
   
   [UiO Information on DMPs](https://www.uio.no/english/for-employees/support/research/research-data-management/data-management-plan/)
   
@@ -165,10 +161,12 @@ Join us online and bring your research project if you have one. You will get the
 
 ### University of Tromsø
 
+  [UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
+  
   [UiT Information on DMPs](https://en.uit.no/forskning/art?p_document_id=548687#collapseThree)
 
   [UiT Research Data Management](https://en.uit.no/forskning/art?p_document_id=548687)
-  
+ 
   [UiT ethics and personal data protectionm](https://en.uit.no/forskning/art?p_document_id=548687#collapseSix)
   
   [UiT RDM Policy](https://en.uit.no/forskning/art?p_document_id=548687#collapseTwo)
