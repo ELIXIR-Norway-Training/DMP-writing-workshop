@@ -166,7 +166,7 @@ Join us online and bring your research project if you have one. You will get the
   [UiT Information on DMPs](https://en.uit.no/forskning/art?p_document_id=548687#collapseThree)
 
   [UiT Research Data Management](https://en.uit.no/forskning/art?p_document_id=548687)
-  
+ 
   [UiT ethics and personal data protectionm](https://en.uit.no/forskning/art?p_document_id=548687#collapseSix)
   
   [UiT RDM Policy](https://en.uit.no/forskning/art?p_document_id=548687#collapseTwo)
