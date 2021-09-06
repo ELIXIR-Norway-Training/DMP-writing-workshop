@@ -1,13 +1,13 @@
-2021/06/15 DMP-writing-workshop
+2021/09/07 DMP-writing-workshop
 ======
 
 Teaching material for DMP writing workshop
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4971754.svg)](https://doi.org/10.5281/zenodo.4971754)
 
-## Online workshop
+## Online Workshop
 
-## Contacts
+## Organisers
 
 [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
 
@@ -15,7 +15,7 @@ Teaching material for DMP writing workshop
 
 [Marta Eide](https://www.uib.no/personer/Marta.Eide)(UiB/Centre for Digital Life Norway)
 
-[Nazeefa Fatima ](https://www.mn.uio.no/ifi/english/people/aca/nazeefaf/index.html)(UiO/ELIXIR-Norway) 
+[Nazeefa Fatima](https://github.com/Nazeeefa)(UiO/ELIXIR-Norway) 
 
 [Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977)(UiT/ELIXIR-Norway)
 
@@ -39,9 +39,8 @@ Teaching material for DMP writing workshop
 
 
 ## Agenda
-### 21.04.2021
 
-#### 15.06.2021
+### 07.09.2021
 
 0830 - 0900 Login support
 
@@ -66,7 +65,7 @@ Teaching material for DMP writing workshop
 1135 - 1230 Persistent identifiers, Controlled Vocabularies & Ontologies
 
  
-#### 16.06.2021
+### 08.09.2021
 
 0900 - 1000 Key legal requirements for research in the GDPR and Health research act
 
