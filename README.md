@@ -79,7 +79,7 @@ Teaching material for DMP writing workshop
 
 ### Requirements:
 
-Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard]((https://elixir-no.ds-wizard.org/) tool using a structured and detailed questionnaire with references to relevant resources.
+Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://elixir-no.ds-wizard.org/) tool using a structured and detailed questionnaire with references to relevant resources.
 
 Looking forward to see you at the workshop.
 
