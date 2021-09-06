@@ -11,19 +11,19 @@ Teaching material for DMP writing workshop
 
 [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
 
-[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/)(UiO/ELIXIR-Norway)
+[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR-Norway)
 
-[Marta Eide](https://www.uib.no/personer/Marta.Eide)(UiB/Centre for Digital Life Norway)
+[Marta Eide](https://www.uib.no/personer/Marta.Eide) (UiB/Centre for Digital Life Norway)
 
-[Nazeefa Fatima](https://github.com/Nazeeefa)(UiO/ELIXIR-Norway) 
+[Nazeefa Fatima](https://github.com/Nazeeefa) (UiO/ELIXIR-Norway) 
 
-[Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977)(UiT/ELIXIR-Norway)
+[Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977) (UiT/ELIXIR-Norway)
 
-[Espen Åberg](https://uit.no/ansatte/espen.aberg)(UiT/ELIXIR-Norway)
+[Espen Åberg](https://uit.no/ansatte/espen.aberg) (UiT/ELIXIR-Norway)
 
-[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward)(NTNU/ELIXIR-Norway)
+[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR-Norway)
 
-[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl)(UiB/ELIXIR-Norway & Centre for Digital Life Norway)
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
 
 
@@ -52,7 +52,7 @@ Teaching material for DMP writing workshop
 
 1015 - 1030 Short break
 
-1030 - 1100 Introduction DSW
+1030 - 1100 Introduction to Data Stewardship Wizard (DSW)
 
 1100 - 1120 Information on national storage infrastructures
 
@@ -89,13 +89,11 @@ Teaching material for DMP writing workshop
 
 1115 - 1300 Hands on training and assistance to generate a data management plan
 
-Requirements: Join us online and bring your project proposal . You will get the opportunity to set up a data management plan for your project with help of the Data Stewardship Wizard tool using a structured and detailed questionnaire with references to relevant resources.
-
-Looking forward to see you at the workshop.
-
 ### Requirements:
 
-Join us online and bring your research project if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://elixir-no.ds-wizard.org/) tool using a structured and detailed questionnaire with references to relevant resources.
+Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard]((https://elixir-no.ds-wizard.org/) tool using a structured and detailed questionnaire with references to relevant resources.
+
+Looking forward to see you at the workshop.
 
 ## Useful links
 
