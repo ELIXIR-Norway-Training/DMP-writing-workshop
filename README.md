@@ -23,6 +23,8 @@ Teaching material for DMP writing workshop
 
 [Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR-Norway)
 
+[Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR-Norway)
+
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
 
