@@ -26,18 +26,6 @@ Teaching material for DMP writing workshop
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
 
-
-[NMBU Research Support Office](https://www.nmbu.no/en/research/for_researchers/researchdata)
-
-[Research Data@NTNU](https://innsida.ntnu.no/researchdata)
-
-[UiB Research Data Team](https://www.uib.no/en/ub/111372/open-research-data)
-
-[UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
-
-[UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
-
-
 ## Agenda
 
 ### 07.09.2021
