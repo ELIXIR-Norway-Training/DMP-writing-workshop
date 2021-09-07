@@ -38,11 +38,11 @@ Teaching material for DMP writing workshop
 
 0915 - 0930 Requirements from the RCN
 
-0930 - 1015 Parallel session: Local recommendations & storage infrastructures Institutional DMP guidelines
+0930 - 1000 Parallel session: Local recommendations & storage infrastructures Institutional DMP guidelines
 
-1015 - 1030 Short break
+1000 - 1015 Short break
 
-1030 - 1100 Introduction to Data Stewardship Wizard (DSW)
+1015 - 1100 Introduction to Data Stewardship Wizard (DSW)
 
 1100 - 1120 Information on national storage infrastructures
 
