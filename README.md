@@ -3,7 +3,7 @@
 
 Teaching material for DMP writing workshop
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4971754.svg)](https://doi.org/10.5281/zenodo.4971754)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5494751.svg)](https://doi.org/10.5281/zenodo.5494751)
 
 ## Online Workshop
 
