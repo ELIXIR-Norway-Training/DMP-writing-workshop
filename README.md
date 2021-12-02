@@ -1,9 +1,7 @@
-2021/09/07 DMP-writing-workshop
+2021-12-06 DMP-writing-workshop
 ======
 
 Teaching material for DMP writing workshop
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5494751.svg)](https://doi.org/10.5281/zenodo.5494751)
 
 ## Online Workshop
 
@@ -30,7 +28,7 @@ Teaching material for DMP writing workshop
 
 ## Agenda
 
-### 07.09.2021
+### 06.12.2021
 
 0830 - 0900 Login support
 
@@ -55,7 +53,7 @@ Teaching material for DMP writing workshop
 1135 - 1230 Persistent identifiers, Controlled Vocabularies & Ontologies
 
  
-### 08.09.2021
+### 07.12.2021
 
 0900 - 1000 Key legal requirements for research in the GDPR and Health research act
 
@@ -68,10 +66,10 @@ Teaching material for DMP writing workshop
 
 
     domain specific archives (ELIXIR/EMBL-EBI, NCBI)
-    Dataverse NO
     EGA
     NIRD archive
     NSD
+    Dataverse NO
 
 1045 - 1100 Short break
 
@@ -89,7 +87,7 @@ Looking forward to see you at the workshop.
 
   [ELIXIR Norway](https://www.elixir-norway.org/)
   
-  [Centre for Digital Life Norway](https://digitallifenorway.org/gb/)
+  [Centre for Digital Life Norway](https://digitallifenorway.org/)
   
   [RDMkit](https://rdmkit.elixir-europe.org/) 
   
