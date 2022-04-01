@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693710.svg)](https://doi.org/10.5281/zenodo.3693710)
 
-2021-12-06 DMP-writing-workshop
+2022-04-04 DMP-writing-workshop
 ======
 
 Teaching material for DMP writing workshop
@@ -30,7 +30,7 @@ Teaching material for DMP writing workshop
 
 ## Agenda
 
-### 06.12.2021
+### 2022-04-04
 
 0830 - 0900 Login support
 
