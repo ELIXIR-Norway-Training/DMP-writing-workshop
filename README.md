@@ -55,7 +55,7 @@ Teaching material for DMP writing workshop
 1135 - 1230 Persistent identifiers, Controlled Vocabularies & Ontologies
 
  
-### 07.12.2021
+### 2022-04-05
 
 0900 - 1000 Key legal requirements for research in the GDPR and Health research act
 
