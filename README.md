@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693710.svg)](https://doi.org/10.5281/zenodo.3693710)
 
-2022-04-04 DMP-writing-workshop
+2022-09-26 DMP-writing-workshop
 ======
 
 Teaching material for DMP writing workshop
@@ -17,7 +17,7 @@ Teaching material for DMP writing workshop
 
 [Nazeefa Fatima](https://github.com/Nazeeefa) (UiO/ELIXIR-Norway) 
 
-[Erik Hjerde](https://en.uit.no/ansatte/person?p_document_id=41977) (UiT/ELIXIR-Norway)
+[Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR-Norway)
 
 [Espen Åberg](https://uit.no/ansatte/espen.aberg) (UiT/ELIXIR-Norway)
 
@@ -30,7 +30,7 @@ Teaching material for DMP writing workshop
 
 ## Agenda
 
-### 2022-04-04
+### 2022-09-26
 
 0830 - 0900 Login support
 
@@ -55,23 +55,24 @@ Teaching material for DMP writing workshop
 1135 - 1230 Persistent identifiers, Controlled Vocabularies & Ontologies
 
  
-### 2022-04-05
+### 2022-09-27
 
 0900 - 1000 Key legal requirements for research in the GDPR and Health research act
 
     Personal Data Act
     Health Research Act
 
-1000 - 1015 Short break
+1000 - 1010 Dataverse NO
 
-1015 - 1045 Relevant deposition repositories/ data archives
+1000 - 1025 Short break
 
+1025 - 1045 Relevant deposition repositories/ data archives
 
     domain specific archives (ELIXIR/EMBL-EBI, NCBI)
     EGA
     NIRD archive
     NSD
-    Dataverse NO
+    
 
 1045 - 1100 Short break
 
