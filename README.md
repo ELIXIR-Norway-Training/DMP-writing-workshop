@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693710.svg)](https://doi.org/10.5281/zenodo.3693710)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7140638.svg)](https://doi.org/10.5281/zenodo.7140638)
 
 2022-09-26 DMP-writing-workshop
 ======
