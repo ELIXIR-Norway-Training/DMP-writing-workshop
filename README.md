@@ -11,8 +11,6 @@ The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows,
 
 ## Organisers
 
-[ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
-
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
 [Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiO/ELIXIR-Norway) 
@@ -90,7 +88,7 @@ Looking forward to see you at the workshop.
 
 ## Useful links
 
-  [ELIXIR Norway](https://www.elixir-norway.org/)
+  [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
   
   [Centre for Digital Life Norway](https://digitallifenorway.org/)
   
