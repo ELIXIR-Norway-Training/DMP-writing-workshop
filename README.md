@@ -30,6 +30,8 @@ The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows,
 
 ## Agenda
 
+[https://www.digitallifenorway.org/events/dmp-workshop-for-life-science-08.html](https://www.digitallifenorway.org/events/dmp-workshop-for-life-science-08.html)
+
 ### 2024-06-05
 
 0830 - 0900 Login support
@@ -82,9 +84,10 @@ The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows,
 
 ### Requirements:
 
-Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://elixir-no.ds-wizard.org/) tool using a structured and detailed questionnaire with references to relevant resources.
+Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://norway.dsw.elixir-europe.org/wizard/) tool using a structured and detailed questionnaire with references to relevant resources.
 
-Looking forward to see you at the workshop.
+### Material Availibility
+Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/records/), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-322f024b-69fe-4a8a-b914-0fde3de6ba77).
 
 ## Useful links
 
