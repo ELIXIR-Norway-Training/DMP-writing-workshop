@@ -3,7 +3,9 @@
 2024-06-05 DMP-writing-workshop
 ======
 
-Teaching material for DMP writing workshop
+All Norwegian universities require a DMP for all projects. All projects that receive funding from the Norwegian RCN are required to submit a data management plan as soon as possible after the contract with the RCN has been signed. This two-days workshop focuses on how-to generate a data management plan for a Life Science research project that will meet both requirements.
+
+The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows, Associate Professors and Professors) in existing and upcoming Life Science projects to develop their DMP in this workshop. Here, you will find the teaching material for DMP writing workshop
 
 ## Online Workshop
 
