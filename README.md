@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7140638.svg)](https://doi.org/10.5281/zenodo.7140638)
 
-2022-09-26 DMP-writing-workshop
+2024-06-05 DMP-writing-workshop
 ======
 
 Teaching material for DMP writing workshop
@@ -11,11 +11,13 @@ Teaching material for DMP writing workshop
 
 [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
 
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
+
+[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiO/ELIXIR-Norway) 
+
 [Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR-Norway)
 
 [Marta Eide](https://www.uib.no/personer/Marta.Eide) (UiB/Centre for Digital Life Norway)
-
-[Nazeefa Fatima](https://github.com/Nazeeefa) (UiO/ELIXIR-Norway) 
 
 [Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR-Norway)
 
@@ -25,12 +27,10 @@ Teaching material for DMP writing workshop
 
 [Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR-Norway)
 
-[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
-
 
 ## Agenda
 
-### 2022-09-26
+### 2024-06-05
 
 0830 - 0900 Login support
 
@@ -55,7 +55,7 @@ Teaching material for DMP writing workshop
 1135 - 1230 Persistent identifiers, Controlled Vocabularies & Ontologies
 
  
-### 2022-09-27
+### 2024-06-06
 
 0900 - 1000 Key legal requirements for research in the GDPR and Health research act
 
@@ -96,7 +96,7 @@ Looking forward to see you at the workshop.
   
   [NeLS](https://nels-docs.readthedocs.io/en/latest/)
   
-  [Data Steward Wizard ELIXIR-Norway](https://elixir-no.ds-wizard.org/)
+  [Data Steward Wizard ELIXIR-Norway](https://norway.dsw.elixir-europe.org/wizard/)
 
   [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
