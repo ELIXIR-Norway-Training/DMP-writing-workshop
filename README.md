@@ -87,7 +87,7 @@ The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows,
 Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://norway.dsw.elixir-europe.org/wizard/) tool using a structured and detailed questionnaire with references to relevant resources.
 
 ### Material Availibility
-Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-322f024b-69fe-4a8a-b914-0fde3de6ba77).
+Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-sciences-research-data-management-2024-course-by-elixir-norway).
 
 ## Useful links
 
