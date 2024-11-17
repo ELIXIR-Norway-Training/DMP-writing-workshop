@@ -1,13 +1,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693710.svg)](https://zenodo.org/doi/10.5281/zenodo.3693710)
 
-2024-06-05 DMP-writing-workshop
+Research Data Management: Planning workshop
 ======
 
-All Norwegian universities require a DMP for all projects. All projects that receive funding from the Norwegian RCN are required to submit a data management plan as soon as possible after the contract with the RCN has been signed. This two-days workshop focuses on how-to generate a data management plan for a Life Science research project that will meet both requirements.
+All Norwegian universities require a DMP for all projects. All projects that receive funding from the Norwegian RCN must submit a data management plan as soon as possible after the contract with the RCN has been signed. This workshop focuses on generating a data management plan for a Life Science research project.
 
-The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows, Associate Professors and Professors) in existing and upcoming Life Science projects to develop their DMP in this workshop. Here, you will find the teaching material for DMP writing workshop
-
-## Online Workshop
+The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, Associate Professors and Professors) in existing and upcoming Life Science projects to develop their DMP in this workshop. Here, you will find the teaching material for the DMP writing workshop
 
 ## Organisers
 
@@ -27,66 +25,7 @@ The workshop is designed for researchers (PhD candidates, Post Doctoral Fellows,
 
 [Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR-Norway)
 
-
-## Agenda
-
-[https://www.digitallifenorway.org/events/dmp-workshop-for-life-science-08.html](https://www.digitallifenorway.org/events/dmp-workshop-for-life-science-08.html)
-
-### 2024-06-05
-
-0830 - 0900 Login support
-
-0900 - 0915 Introduction
-
-0915 - 0930 Requirements from the RCN
-
-0930 - 1000 Parallel session: Local recommendations & storage infrastructures Institutional DMP guidelines
-
-1000 - 1015 Short break
-
-1015 - 1100 Introduction to Data Stewardship Wizard (DSW)
-
-1100 - 1120 Information on national storage infrastructures
-
-    NeLS/StoreBioInfo
-    NIRD
-    TSD
-
-1120 - 1135 Short break
-
-1135 - 1230 Persistent identifiers, Controlled Vocabularies & Ontologies
-
- 
-### 2024-06-06
-
-0900 - 1000 Key legal requirements for research in the GDPR and Health research act
-
-    Personal Data Act
-    Health Research Act
-
-1000 - 1010 Dataverse NO
-
-1000 - 1025 Short break
-
-1025 - 1045 Relevant deposition repositories/ data archives
-
-    domain specific archives (ELIXIR/EMBL-EBI, NCBI)
-    EGA
-    NIRD archive
-    NSD
-    
-
-1045 - 1100 Short break
-
-1100 - 1115 Licensing of data, biological material and software
-
-1115 - 1300 Hands on training and assistance to generate a data management plan
-
-### Requirements:
-
-Join us online and bring your project proposal if you have one. You will get the opportunity to set up a data management plan for your project with help of the [Data Stewardship Wizard](https://norway.dsw.elixir-europe.org/wizard/) tool using a structured and detailed questionnaire with references to relevant resources.
-
-### Material Availibility
+### Material Availability
 Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-sciences-research-data-management-2024-course-by-elixir-norway).
 
 ## Useful links
