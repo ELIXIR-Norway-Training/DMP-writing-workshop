@@ -11,19 +11,28 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
-[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiO/ELIXIR-Norway) 
+[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiO/ELIXIR Norway) 
 
-[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR-Norway)
+[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
+
+[Arturo Vera Ponce De Leon](https://www.nmbu.no/en/find-employee?s=arturo.vera.ponce.de.leon) (NMBU/ELIXIR Norway)
 
 [Marta Eide](https://www.uib.no/personer/Marta.Eide) (UiB/Centre for Digital Life Norway)
 
-[Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR-Norway)
+[Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR Norway)
 
 [Espen Åberg](https://uit.no/ansatte/espen.aberg) (UiT/ELIXIR-Norway)
 
-[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR-Norway)
+[Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR Norway)
 
-[Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR-Norway)
+[Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR Norway)
+
+### Events pages on TeSS
+We register our workshop events and associated materials on TeSS. Please find below the relevant links below:
+
+* 2024-11-20 NMBU ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-8cc7b714-86c6-48fd-90c7-7a129fe31f99) , materials (TBA))
+
+
 
 ### Material Availability
 Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-sciences-research-data-management-2024-course-by-elixir-norway).
