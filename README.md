@@ -32,8 +32,6 @@ We register our workshop events and associated materials on TeSS. Please find be
 
 * 2024-11-20 NMBU ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-8cc7b714-86c6-48fd-90c7-7a129fe31f99) , materials (TBA))
 
-
-
 ### Material Availability
 Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-sciences-research-data-management-2024-course-by-elixir-norway).
 
@@ -54,7 +52,6 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
   [RCN Open data policy](https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/)
-
 
 ### NMBU
   
@@ -77,18 +74,20 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   [UiB Information on DMPs](https://www.uib.no/en/ub/143694/data-management-plans)
     
 ### University of Oslo
+
+  [Digital Scholarship Centre (DSC)](https://www.ub.uio.no/english/libraries/dsc/)
+
+  [UiO Research Data Management pages](https://www.uio.no/english/for-employees/support/research/research-data-management/)
   
-  [UiO Research Data Competence Group](https://www.uio.no/english/for-employees/support/research/research-data-management/organisation/index.html)
+  [UiO Information on DMPs](https://www.uio.no/english/for-employees/support/research/research-data-management/project/planning.html)
   
-  [UiO Information on DMPs](https://www.uio.no/english/for-employees/support/research/research-data-management/data-management-plan/)
+  [UiO Storage](https://www.uio.no/english/services/it/research/storage/index.html)
   
-  [UiO Research Data Management](https://www.uio.no/english/for-employees/support/research/research-data-management/)
-  
-  [UiO Storage](https://www.uio.no/english/for-employees/support/research/research-data-management/storage/index.html)
-  
-  [UiO RDM Policy](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-and-guidelines/index.html)
+  [UiO RDM Policy](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html)
   
   [UiO GDPR](https://www.uio.no/english/for-employees/support/privacy-dataprotection/research-at-uio.html)
+
+  [UiO Data Managers Network](https://www.ub.uio.no/english/libraries/dsc/data-managers-network/)
 
 ### University of Tromsø
 
