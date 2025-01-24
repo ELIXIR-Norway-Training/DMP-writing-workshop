@@ -91,8 +91,6 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
 
 ### University of Tromsø
 
-  [UiT Research Data Support](https://en.uit.no/forskning/art?p_document_id=548687)
-
   [UiT Research Data Management](https://uit.no/research/research-dataportal/art?p_document_id=729171)
   
   [UiT Information on DMPs](https://uit.no/research/research-dataportal/art?p_document_id=726373#mod_726377)
@@ -100,3 +98,5 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   [UiT ethics and personal data protectionm](https://en.uit.no/research/ethics)
   
   [UiT's principles and guidelines for research data management](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184)
+  
+  [UiT Research Data Support](https://uit.no/research/research-dataportal/art?p_document_id=729171#mod_753996)
