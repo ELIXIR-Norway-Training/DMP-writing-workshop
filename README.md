@@ -7,15 +7,11 @@ All Norwegian universities require a DMP for all projects. All projects that rec
 
 The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, Associate Professors and Professors) in existing and upcoming Life Science projects to develop their DMP in this workshop. Here, you will find the teaching material for the DMP writing workshop
 
-## Organisers
+## Current Instructors
 
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
-[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway) 
-
 [Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
-
-## Current Instructors
 
 [Arturo Vera Ponce De Leon](https://www.nmbu.no/en/find-employee?s=arturo.vera.ponce.de.leon) (NMBU/ELIXIR Norway)
 
@@ -25,11 +21,22 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 ## Past Instructors
 
-[Marta Eide](https://www.uib.no/personer/Marta.Eide) (UiB/Centre for Digital Life Norway)
+[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway)
 
 [Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR Norway)
 
+[Marta Eide](https://www.uib.no/personer/Marta.Eide) (UiB/Centre for Digital Life Norway)
+
 [Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR Norway)
+
+## Organisers
+
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
+
+[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway) 
+
+[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
+
 
 ### Events pages on TeSS
 We register our workshop events and associated materials on TeSS. Please find the relevant links below:
