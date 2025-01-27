@@ -29,7 +29,7 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 [Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR Norway)
 
-## Organisers
+## Main Organisers
 
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
