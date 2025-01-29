@@ -58,7 +58,7 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   
   [Data Steward Wizard ELIXIR-Norway](https://norway.dsw.elixir-europe.org/wizard/)
 
-  [UNINETT Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
+  [Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
   
   [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
@@ -68,7 +68,7 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   
   [NMBU Research Data Management](https://www.nmbu.no/en/research/for_researchers/researchdata)
   
-  [Personal (sensitive) - RDM @ NMBU](https://www.nmbu.no/en/research/for_researchers/researchdata/node/34780)
+  [Personal, sensitive - RDM @ NMBU (internal page)](https://eduumb.sharepoint.com/sites/mittnmbu_org_ua_fa/SitePages/Bruk-av-personopplysninger-i-forskning.aspx)
   
 ### NTNU
   
@@ -82,7 +82,7 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
 
   [UiB Open Access to Research Data](https://www.uib.no/en/ub/111372/open-access-research-data)
   
-  [UiB Information on DMPs](https://www.uib.no/en/ub/143694/data-management-plans)
+  [UiB Information on DMPs](https://www.uib.no/en/ub/174127/data-management-plan)
     
 ### University of Oslo
 
