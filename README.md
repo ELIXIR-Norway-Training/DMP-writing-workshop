@@ -58,7 +58,7 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   
   [Data Steward Wizard ELIXIR-Norway](https://norway.dsw.elixir-europe.org/wizard/)
 
-  [Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/storage/nird.html)
+  [Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/files_storage/nird_lmd.html)
   
   [TSD - UiO/National services for sensitive data](https://www.uio.no/english/services/it/research/sensitive-data/index.html)
   
