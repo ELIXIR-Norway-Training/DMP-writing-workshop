@@ -66,7 +66,7 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
 
 ### NMBU
   
-  [NMBU Research Data Management](https://www.nmbu.no/en/research/for_researchers/researchdata)
+  [NMBU Research Data Management](https://www.nmbu.no/en/research/forskningsdata)
   
   [Personal, sensitive - RDM @ NMBU (internal page)](https://eduumb.sharepoint.com/sites/mittnmbu_org_ua_fa/SitePages/Bruk-av-personopplysninger-i-forskning.aspx)
   
