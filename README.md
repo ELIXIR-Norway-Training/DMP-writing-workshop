@@ -38,10 +38,10 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 [Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
 
 
-### Events pages on TeSS
+### TeSS pages
 We register our workshop events and associated materials on TeSS. Please find the relevant links below:
 
-* 2024-11-20 NMBU ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-8cc7b714-86c6-48fd-90c7-7a129fe31f99) , materials (TBA))
+* 2024-11-20 NMBU ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-8cc7b714-86c6-48fd-90c7-7a129fe31f99) , [materials](https://tess.elixir-europe.org/materials/life-science-data-management-planning-workshop))
 
 ### Material Availability
 Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-sciences-research-data-management-2024-course-by-elixir-norway).
