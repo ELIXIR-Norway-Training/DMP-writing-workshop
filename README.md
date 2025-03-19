@@ -11,6 +11,8 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 [Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
 
+[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway)
+
 [Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
 
 [Arturo Vera Ponce De Leon](https://www.nmbu.no/en/find-employee?s=arturo.vera.ponce.de.leon) (NMBU/ELIXIR Norway)
@@ -20,8 +22,6 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 [Espen Åberg](https://uit.no/ansatte/espen.aberg) (UiT/ELIXIR-Norway)
 
 ## Past Instructors
-
-[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway)
 
 [Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR Norway)
 
