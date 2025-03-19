@@ -17,11 +17,11 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 [Arturo Vera Ponce De Leon](https://www.nmbu.no/en/find-employee?s=arturo.vera.ponce.de.leon) (NMBU/ELIXIR Norway)
 
-[Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR Norway)
-
 [Espen Åberg](https://uit.no/ansatte/espen.aberg) (UiT/ELIXIR-Norway)
 
 ## Past Instructors
+
+[Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR Norway)
 
 [Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR Norway)
 
@@ -41,10 +41,10 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 ### TeSS pages
 We register our workshop events and associated materials on TeSS. Please find the relevant links below:
 
-* 2024-11-20 NMBU ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-8cc7b714-86c6-48fd-90c7-7a129fe31f99) , [materials](https://tess.elixir-europe.org/materials/life-science-data-management-planning-workshop))
+* 2025-03-19 online ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-3ba458e4-476b-4ea6-a265-c56b7281431c) , [materials](https://tess.elixir-europe.org/materials/life-science-data-management-planning-workshop))
 
 ### Material Availability
-Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/materials/life-sciences-research-data-management-2024-course-by-elixir-norway).
+Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-3ba458e4-476b-4ea6-a265-c56b7281431c).
 
 ## Useful links
 
