@@ -9,9 +9,7 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 ## Current Instructors
 
-[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
-
-[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway)
+[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway)
 
 [Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
 
@@ -21,6 +19,9 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 ## Past Instructors
 
+
+[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway)
+
 [Dorota Buczek](https://uit.no/ansatte/person?p_document_id=668151) (UiT/ELIXIR Norway)
 
 [Eivind Coward](https://www.ntnu.edu/employees/eivind.coward) (NTNU/ELIXIR Norway)
@@ -29,28 +30,20 @@ The workshop is designed for researchers (PhD candidates, Postdoctoral Fellows, 
 
 [Thu-Hien To](https://www.nmbu.no/ans/thu-hien.to) (NMBU/ELIXIR Norway)
 
-## Main Organisers
-
-[Korbinian Bösl](https://www.uib.no/en/persons/Korbinian.B%C3%B6sl) (UiB/ELIXIR-Norway & Centre for Digital Life Norway)
-
-[Nazeefa Fatima](https://www.mn.uio.no/ifi/english/people/adm/nazeefaf/) (UiT/ELIXIR Norway) 
-
-[Federico Bianchini](https://www.mn.uio.no/kjemi/english/people/aca/fredebi/) (UiO/ELIXIR Norway)
-
 
 ### TeSS pages
 We register our workshop events and associated materials on TeSS. Please find the relevant links below:
 
-* 2025-03-19 online ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-3ba458e4-476b-4ea6-a265-c56b7281431c) , [materials](https://tess.elixir-europe.org/materials/life-science-data-management-planning-workshop))
+* 2026-05-28 ([event page](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-3815ef85-0744-4928-b4ce-68d1cfd92d99) , [materials](https://tess.elixir-europe.org/materials/life-science-data-management-planning-workshop))
 
 ### Material Availability
-Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-3ba458e4-476b-4ea6-a265-c56b7281431c).
+Slides will be available in this [repository](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop/) and [Zenodo](https://zenodo.org/doi/10.5281/zenodo.3693710), as well as [registered on ELIXIR's Training eSupport System (TeSS)](https://tess.elixir-europe.org/events/life-science-data-management-planning-workshop-3815ef85-0744-4928-b4ce-68d1cfd92d99).
 
 ## Useful links
 
   [ELIXIR-NO Helpdesk](https://elixir.no/helpdesk)
   
-  [Centre for Digital Life Norway](https://digitallifenorway.org/)
+  [research-data.no](https://research-data.no)
   
   [RDMkit](https://rdmkit.elixir-europe.org/) 
   
