@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693710.svg)](https://zenodo.org/doi/10.5281/zenodo.3693710)
+[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693710.svg)](https://zenodo.org/doi/10.5281/zenodo.3693710)](https://doi.org/10.5281/zenodo.20714732)
 
 Research Data Management: Planning workshop
 ======
