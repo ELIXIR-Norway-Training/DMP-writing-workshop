@@ -49,7 +49,7 @@ Slides will be available in this [repository](https://github.com/ELIXIR-Norway-T
   
   [NeLS](https://nels-docs.readthedocs.io/en/latest/)
   
-  [Data Steward Wizard ELIXIR-Norway](https://norway.dsw.elixir-europe.org/wizard/)
+  [Data Steward Wizard ELIXIR-Norway](https://norway.dsw.elixir-europe.org/)
 
   [Sigma2 - NIRD National Infrastructure for Research Data](https://documentation.sigma2.no/files_storage/nird_lmd.html)
   
